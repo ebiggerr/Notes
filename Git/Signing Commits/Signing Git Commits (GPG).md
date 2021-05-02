@@ -1,9 +1,19 @@
 # Signing Git Commits (GPG)
 
-## Install GPG
+## GPG
+
+What is GPG? https://gnupg.org/ 
 
 ---
-## Install Kleopatra and Generate Key
+## Install GPG together with Kleopatra 
+
+https://www.gpg4win.org/download.html (Contains GPG together with Kleopatra)
+
+Gpg4win 3.1.15 ( at the time of writing 2nd May 2021 )
+
+---
+
+## Start (After installation of all required software)
 
 Open up the Kleopatra software.
 
