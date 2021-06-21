@@ -1,0 +1,2 @@
+
+Gradient descenet is an optimization algorithm used to minimize some function by iteratively moving in the direction of steepiest descent as defined by the negative of the gradient. In machine learning, we use gradient descent to update the paramentes of our model. Parameter refer to the coefficient in [[Linear Regression]] and weights in neural networks. 
