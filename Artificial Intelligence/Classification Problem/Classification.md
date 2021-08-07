@@ -42,4 +42,4 @@ The model or `predictor` is constructed to predict a continuos-valued function, 
 [[Multi-label Classification]]
 
 ## Evaluating the Classification Model
-[[Confusion Matrix]]
+[[Introduction to Confusion Matrix]]
