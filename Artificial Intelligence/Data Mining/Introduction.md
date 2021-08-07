@@ -19,7 +19,4 @@ This can be used to predict customer behaviour or used to estimate the sales of 
 ==Data mining== is a process of discovering valuable information from large amount of data stored in database, data warehouses, or other information repositories. Data mining attempts to extract potentially useful knowledge from data. 
 
 
-Decision Tree Gini Index
-Regression
-Naive Bayes / Association Rules==
 
