@@ -1,8 +1,5 @@
 # The .Net
 
-
-
-
 ### Key Benefits of the .Net Platform
 - Suppport for numerous programming languages
 	.Net application can be created using any number of programming languages ( C#, Visual Basic, F#, etc)

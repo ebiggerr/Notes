@@ -1,0 +1,3 @@
+In ABP, each application service method is assumed to be a `unit of work` by default. It automatically creates a connection and begins a transaction at the beginning of the method. If the method successfully completes without exception, then the transaction is committed and the connection is disposed. 
+
+Even if this method used different repositories or methods, all of them will be atomic(transactional). All changes on entities are automatically saved when a transaction is commited. 
