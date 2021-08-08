@@ -10,5 +10,4 @@ To formalise such statements, we require a language that reveals the internal st
 
 # Predicate Calculus
 
-
-
+//TODO
